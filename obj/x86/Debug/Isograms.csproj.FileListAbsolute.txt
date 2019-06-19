@@ -1,0 +1,4 @@
+C:\Users\Mike.Murray\Documents\Visual Studio 2010\Projects\WinApp\Isograms\Isograms\bin\Debug\Isograms.exe
+C:\Users\Mike.Murray\Documents\Visual Studio 2010\Projects\WinApp\Isograms\Isograms\bin\Debug\Isograms.pdb
+C:\Users\Mike.Murray\Documents\Visual Studio 2010\Projects\WinApp\Isograms\Isograms\obj\x86\Debug\Isograms.exe
+C:\Users\Mike.Murray\Documents\Visual Studio 2010\Projects\WinApp\Isograms\Isograms\obj\x86\Debug\Isograms.pdb
